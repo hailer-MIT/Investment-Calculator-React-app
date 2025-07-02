@@ -1,9 +1,9 @@
-**Investment Calculator**
+#**Investment Calculator**
 Welcome to the Investment Calculator – a modern, user-friendly tool designed to help users plan and visualize their investment growth over time. 
 This project demonstrates my skills in software development, UI/UX design, and problem-solving.
 
 
-🚀 **Features**
+#🚀 **Features**
 Intuitive Interface: Clean, responsive design for seamless user experience.
 Customizable Inputs: Users can set initial investment, interest rate, duration, and contribution frequency.
 Real-Time Calculations: Instantly see how your investments grow with interactive charts and tables.
@@ -12,7 +12,7 @@ Export Options: Download results as CSV or image for easy sharing.
 Mobile Friendly: Fully responsive and works great on all devices.
 
 
-**🛠️ Tech Stack**
+#**🛠️ Tech Stack**
 Frontend: React.js (with Hooks & Context API)
 Styling: Styled Components 
 Charts: Chart.js 
